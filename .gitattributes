@@ -1,2 +1,129 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+
+; Path: .gitignore
+; Compare this snippet from apifull2/.gitignore:
+
+; # Compiled source #
+
+; ###################
+; # Compiled source #
+; ###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+; Path: .gitignore
+; Compare this snippet from apifull2/.gitignore:
+
+; # Packages #
+; ############
+# Packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+; Path: .gitignore
+; Compare this snippet from apifull2/.gitignore:
+
+; # Logs and databases #
+; ######################
+; Logs and databases
+*.log
+*.sql
+*.sqlite
+
+; Path: .gitignore
+; Compare this snippet from apifull2/.gitignore:
+
+; # OS generated files #
+; ######################
+; OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+; Path: .gitignore
+; Compare this snippet from apifull2/.gitignore:
+
+; # Visual Studio 2015 cache/options directory
+; .vs/
+; Uncomment this section if you wish to ignore the Visual Studio 2015 directory
+# Visual Studio 2015 cache/options directory
+.vs/
+
+; Path: .gitignore
+; Compare this snippet from apifull2/.gitignore:
+
+; # Visual Studio 2017 cache/options directory
+; .vs/
+; Uncomment this section if you wish to ignore the Visual Studio 2017 directory
+# Visual Studio 2017 cache/options directory
+.vs/
+
+; Path: .gitignore
+; Compare this snippet from apifull2/.gitignore:
+
+; # Rider
+; .idea/
+; Comment this section if you wish to ignore the JetBrains Rider directory
+# Rider
+.idea/
+
+; Path: .gitignore
+; Compare this snippet from apifull2/.gitignore:
+
+; # User-specific files
+; ######################
+; User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+; Path: .gitignore
+; Compare this snippet from apifull2/.gitignore:
+
+; # Build results
+; #######################
+; Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+; Path: .gitignore
+; Compare this snippet from apifull2/.gitignore:
+
+; # NuGet
+; #######
+; NuGet
+packages/
+*.nupkg
+# venv environment
+venv/
+# Spyder project settings
+.spyderproject
+.spyproject
